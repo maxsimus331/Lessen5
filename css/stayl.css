@@ -1,0 +1,92 @@
+.container {
+	width: 1088PX;
+	
+	margin: 0 AUTO;
+}
+.left-block {
+	width: 536px;
+	height: 190px;
+
+	display: inline-block;
+	margin-right: 16px;
+	margin-bottom: 102px;
+}
+.right-block{
+	background: #BE2B2B;
+	width: 536px;
+	height: 190px;
+
+	display: inline-block;
+}
+.text-block{
+	display: inline-block;
+	width: 260px;
+	
+}
+.image-block {
+	vertical-align: middle;
+}
+.title {
+	color: #5863F8;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;
+}
+.description {
+	font-size: 42px;
+	font-family: 'Poppins-ExtraBold';
+	width: 498px;
+	margin-bottom: 50px;
+}
+.title-block {
+	font-family: 'Poppins-ExtraBold';
+	font-size: 14px;
+	color: #5863F8;
+	font-style: italic;
+}
+.title-food {
+	font-size: 18px;
+	text-decoration: underline;
+}
+.food-top {
+	font-size: 14px;
+	color: #B1B1B1;
+}
+.container2 {
+	width: 1088px;
+	height: 560px;
+	margin: 0 auto;
+
+}
+.left-block-bottom {
+	display: inline-block;
+	width: 352px;
+	height: 360px;
+}
+.blog-image {
+	margin-bottom: 23px;
+}
+.text-block-bottom {
+	text-align: center;
+	width: 352px;
+}
+.food-top1 {
+	text-align: center;
+	width: 260px;
+	height: 42px;
+    font-size: 14px;
+
+	color: #B1B1B1;	
+	
+}
+.midk-block-bottom {
+	display: inline-block;
+	width: 352px;
+	height: 360px;
+	margin-left: 16px;
+
+
+}
+.right-block-bottom{
+	display: inline-block;
+margin-left: 16px;
+}
